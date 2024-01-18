@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var resumeTab = document.getElementById("resume-tab");
 
     resumeTab.addEventListener("click", function () {
-        var resumePDF = 'rResume.pdf';
+        var resumePDF = 'VamshiKrishna_Resume.pdf';
         window.open(resumePDF, '_blank');
     });
 });
